@@ -1,2 +1,7 @@
 # intentex-whitepaper-
 Core whitepaper and protocol architecture for the IntentEX project by Steven Alber
+IntentEX_White_Paper_Steven_Alber_2025_06_21.pdf  
+SHA-256: 45921f3cb1b19a12c6405808a11ed008c22eafec1a331f1b38c0ddc5ca173672
+
+IntentEX_Technical_Foreword_Steven_Alber_2025_06_22.pdf  
+SHA-256: 6f2dc1739ebccf67807a204e917ec496ddb68d23da18680b00234f32ab48d82c
